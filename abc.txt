@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Adding this file to Newly Created Repository 
 DevOps AWS git guhub
+=======
+this 
+is
+my
+new git repo
+this is new
+>>>>>>> test
